@@ -1,5 +1,5 @@
-#Before running this script you need Python 3.10(?) and Blendr 2.93 to be installed on your system
-#Also you have to place all the Bledner files that you want to export to fbx to D:\fbx_input (if you don't have such a directory, you have to create it)
+#Before running this script you need Python 3.10(?) and Blender 2.93 to be installed on your system
+#Also you have to place all the Blender files that you want to export to fbx to D:\fbx_input (if you don't have such a directory, you have to create it)
 #And create D:\fbx_output directory
 #Otherwise script won't work
 #Of course you can replace "D" hard drive letter to any hard drive letter that you want ("G" letter for example)
